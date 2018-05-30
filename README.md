@@ -1,0 +1,1 @@
+Learn how to build website using Django Rest Framework + Reactjs by following tutorial on https://www.valentinog.com/blog/tutorial-api-django-rest-react/
